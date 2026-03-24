@@ -15,7 +15,7 @@ Synapthix — это локальный помощник по книгам, ра
 Вы должны убедится, что на диске C: (если windows) есть свободная **память в размере 5Gb**
 
 ### Windows
-1. Зайдите в cmd и пропишите git clone ttps://github.com/TheMizzz/Synapthix
+1. Зайдите в cmd и пропишите `git clone https://github.com/TheMizzz/Synapthix`
 
 2. Запустите `launch_synapthix.bat` **от имени администратора**.
 
