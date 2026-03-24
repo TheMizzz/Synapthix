@@ -1,0 +1,11 @@
+gradio
+fastapi
+uvicorn[standard]
+requests
+sentence-transformers
+faiss-cpu
+langchain-text-splitters
+pydantic
+tqdm
+ebooklib
+beautifulsoup4
